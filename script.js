@@ -47,6 +47,7 @@ $(() => {
         yes.css({
             'position': 'absolute',
             'background': 'rgba(0, 210, 0, 1)',
+            'border-radius': '0',
         })
 
         yes.animate({
